@@ -83,7 +83,7 @@ f("In the stages of culture shock, a person has achieved ______ by developing th
 f("The stages of culture shock in order are ______.","euphoria, disintegration, reintegration, gradual adjustment, and biculturalism").
 f("Separation is maintaining one's original culture and not participating in the new culture.","true").
 f("Maintaining important parts of one's original culture as well as becoming an integral part of a new culture is ______.","integration").
-f("A person who lives in a country for a limited period of time, from as little as 6 months to as long as 5 years, with a specific and goal-oriented purpose such as education is a(n) ______."sojourner").
+f("A person who lives in a country for a limited period of time, from as little as 6 months to as long as 5 years, with a specific and goal-oriented purpose such as education is a(n) ______.","sojourner").
 f("______ requires a period of residency, an exam, an oath, or some combination of these.","Naturalization").
 f("Which of the following states has half of the illegal immigrants in the United States?","California").
 f("In 2017, approximately what percentage of the U.S. population was foreign born?","14%").
@@ -165,58 +165,73 @@ f("Where do Hmong populations primarily live within the United States?","Califor
 f("Gelassenheit is a common German word in Amish life which means ______.","submission").
 f("The Hmong, who left Laos, and the Montagnard, who left Vietnam, experienced ______ when they arrived in the United States.","marginalization").
 f("Spanglish is an example of ______.","code-switching").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
+
+
+f("Among the groups within the Cambodian, Laotian, Hmong, and Vietnamese refugee cultures, a group who was not at high risk for marginalization is ______.","workers").
+f("Amish settlements in the United States are examples of voluntary ______ in American society.","separation").
+f("Hispanic cultures in the United States have few media outlets.","false").
+f("What percentage of the U.S. population in 2015 claimed ancestry from a Spanish-speaking country as an important part of their identity?","18%").
+f("The ______ analogy suggests that elements maintain their own taste or identity but exist together to create a whole.","stew").
+f("Replacing the melting pot analogy, the salad or stew analogy is evidence of which prevalent view of immigration in the United States today?","integration").
+f("Today's immigrants find a much more ethnically diversified country.","true").
+f("Prior to the construction of the Trans-Siberian Railway, how large was the population of Koreans as compared to that of Russians in the Russian Far East?","Koreans outnumbered Russians.").
+f("Which culture was forced to flee Laos for the United States?","Hmong").
+f("What is the percentage of indigenous populations among the world's population?","5%").
+
+f("What does the United Nations Declaration on the Rights of Indigenous Peoples suggest?"," Indigenous peoples should occupy a privileged political and legal position.").
+f("Which is the term originally used to refer to the experiences of Jews, and later Armenians, who were forcibly exiled from their homelands, but more recently used to include all groups that move from one part of the world to another?","diaspora").
+f("In addition to size, what other characteristic of the Hispanic market has drawn advertisers?","station loyalty").
+f("What percentage of Amish youth choose to accept an Amish identity?","80-90%").
+f("The word or phrase most often used to describe the assimilation of early immigrants into the United States was ______.","melting pot").
+f("Ethnic Koreans in post-Soviet states experienced ______.","marginalization").
+f("The majority of Cambodian, Laotian, Hmong, and Vietnamese refugee teenagers become involved in gang criminal behavior.","false").
+f("Only around 25% of Hispanic internet users access the internet on a mobile phone, tablet, or other mobile handheld device at least occasionally.","false").
+f("The largest Spanish-language television network in the United States is ______.","univision").
+
+
+f("What percentage of the U.S. population in 2015 claimed ancestry from a Spanish-speaking country as an important part of their identity?","18%").
+f("What percentage of the U.S. population in 2015 claimed ancestry from an English-speaking country as an important part of their identity?","20%").
+f("What percentage of Amish youth choose to accept an Amish identity?","20-30%").
+f("The Hmong, who left Laos, and the Montagnard, who left Vietnam, experienced ______ when they arrived in the United States.","marginalization").
+f("In addition to size, what other characteristic of the Hispanic market has drawn advertisers?","station loyalty").
+f("Amish youth have no choice but to choose to accept an Amish identity.","false").
+f("Compared to Anglo-Americans, Hispanics rely on extended families for emotional support.","true").
+f("What does the United Nations Declaration on the Rights of Indigenous Peoples suggest?","Indigenous peoples should occupy a privileged political and legal position.").
+
+
+f("Which culture was forced to flee Laos for the United States?","hmong").
+f("The term Tejano refers to people born in California of Mexican ancestry.","false").
+f("Replacing the melting pot analogy, the salad or stew analogy is evidence of which prevalent view of immigration in the United States today?","integration).
+f("Where do Hmong populations primarily live within the United States?","california, Minnesota, Wisconsin").
+f("Amish settlements in the United States are examples of voluntary ______ in American society.","separation").
+f("What is the percentage of indigenous populations among the world's population?","5%").
+f("Prior to the construction of the Trans-Siberian Railway, how large was the population of Koreans as compared to that of Russians in the Russian Far East?","Koreans Outnumbered Russians").
+f("Some people object to multilingual marketing because they believe it perpetuates linguistic divisions and separation.","true").
+f("Ethnic Koreans in post-Soviet states experienced ______.","marginalization").
+
+f("Diaspora refers to groups who have been forced to move from one part of the world to another.","true").
+f("The Amish support their own private schools, which teach the practical skills of everyday life.","true").
+f("Gelassenheit is a common German word in Amish life which means ______.","submission").
+
+
+f("All of the Hmong continue to exist in a state of marginalization.","false").
+f("The term Latino refers to Spanish-speaking individuals who came from, or whose ancestors came from, anywhere in Latin America.","true").
+f("The Hmong, who left Laos, and the Montagnard, who left Vietnam, experienced ______ when they arrived in the United States.","marginalization").
+
+f("More than 50 million people in the United States are of German heritage.","true").
+f("Amish settlements in the United States are examples of voluntary ______ in American society.","separation").
+f("Which culture was forced to flee Laos for the United States?","hmong").
+f("The trend today is to assimilate indigenous peoples into national cultures as quickly as possible.","false").
+
+f("Most Spanish-language books sold in the United States are published outside the country.","true").
+f("The word or phrase most often used to describe the assimilation of early immigrants into the United States was ______.","melting pot").
+f("Ethnic Koreans in post-Soviet states experienced ______.","marginalization").
+f("Replacing the melting pot analogy, the salad or stew analogy is evidence of which prevalent view of immigration in the United States today?","integration").
+f("The Beachy Amish use automobiles but not electricity.","false").
+
+/* end of quiz 10 facts */
+
+
 f("","").
 f("","").
 f("","").
