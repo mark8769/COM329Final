@@ -201,7 +201,7 @@ f("What does the United Nations Declaration on the Rights of Indigenous Peoples 
 
 f("Which culture was forced to flee Laos for the United States?","hmong").
 f("The term Tejano refers to people born in California of Mexican ancestry.","false").
-f("Replacing the melting pot analogy, the salad or stew analogy is evidence of which prevalent view of immigration in the United States today?","integration).
+f("Replacing the melting pot analogy, the salad or stew analogy is evidence of which prevalent view of immigration in the United States today?","integration").
 f("Where do Hmong populations primarily live within the United States?","california, Minnesota, Wisconsin").
 f("Amish settlements in the United States are examples of voluntary ______ in American society.","separation").
 f("What is the percentage of indigenous populations among the world's population?","5%").
@@ -231,703 +231,187 @@ f("The Beachy Amish use automobiles but not electricity.","false").
 
 /* end of quiz 10 facts */
 
+/* start of quiz 11 facts */
 
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
-f("","").
+f("David Maurer's studies of the speech of subgroups were based on his reading of Sapir.","true").
+f("Maurer's studies demonstrate that membership in the subgroup provides an identity.","True").
+f("Which of the following countries is least accepting of homosexuality?","Kenya").
+f("For many corporations, the value systems were established by ______.","value-shaping leaders").
+f("Hofstede reported that the masculinity cultural dimension is ______.","negatively related to the acceptance of homosexuality").
+f("In what areas were respondents least accepting of homosexuality?","Africa and predominantly Muslim countries").
+f("Google is organized as a ______ company with a small middle management and a hands-on upper management."," flat").
+f("Existing within cultures, subgroups share forms of language, media, and values.","true").
+f("Who established the corporate culture at Southwest Airlines?","Herb Kelleher").
+f("Corporate ______ has been defined as 'the way we do things around here.'","culture").
+
+
+f("The technical language of a professional group, such as doctors and lawyers, is known as ______.","jargon").
+f("How is the Google company structured?","It has a small middle management and a hands-on upper management.").
+f("There were no hate crime laws in 1967.","true").
+f("Jargon refers to the specialized language of nonprofessional groups.","false").
+f("One important organizational myth of Disneyland is related to ______.","family").
+f("Besides argot, ______ and values contribute to defining subgroup identity and boundaries.","media use").
+f("The specialized language of a nonprofessional group is known as ______.","cant").
+f("An orderly and scientific study of a subgroup by a researcher after having been accepted as a member is called a(n) ______.","observer report").
+f("Which of the following is true of othering?","othering can apply to any marginalized group").
+f("For a subgroup, a specialized vocabulary identifies it and establishes its boundaries.","true").
+
+
+f("What characterized British punk?","use of random, mass-produced objects for a parody of consumerism").
+f("______ is the vocabulary of groups that has become known and accepted by the general public.","slang").
+f("According to studies by Maurer in the 1930s, argots ______.","serve as one important aspect of group identity").
+f("Among the consequences of ______ is the potential for emotional and physical harm to those being labeled.","othering").
+f("For many corporations, the value systems were established by ______.","value-shaping leaders").
+f("What does queer theory argue?"," Identities are multiple and accepting one identification is restrictive in defining self.").
+f("What role does argot play within a subgroup?","It defines the boundaries of the subgroup.").
+f("Organizations can have their own symbols.","true").
+f("Media distributed only to subgroup members can vary widely from graffiti to newsletters.","true").
+f("At Google, core employees have autonomy but work with a single unifying philosophy.","true").
+
+
+f("The language people use to describe their and other's gender identity is consistent across cultures.","false").
+f("Besides argot, ______ and values contribute to defining subgroup identity and boundaries.","violence").
+f("Who established the corporate culture at Southwest Airlines?","herb kelleher").
+f("Dick Hebdige showed that it was how British punk youth culture used commodities that marked the group off from the dominant culture.","true").
+f("Hofstede reported that the masculinity cultural dimension is ______.","negatively related to the acceptance of homosexuality").
+f("It is possible for argot to be absorbed into mainstream language as slang.","true").
+f("According to studies by Maurer in the 1930s, argots ______.","serve as one important aspect of group identity").
+
+
+f("Important myths in the Disneyland corporate culture are drama and family.","true").
+f("One important organizational myth of Disneyland is related to ______.","family").
+f("British punk provides an example of cultural diffusion.","true").
+f("Argot refers to the specialized languages of stigmatized groups.","false").
+f("Which of the following is true of othering?","othering can apply to any marginalized group").
+f("In what areas were respondents least accepting of homosexuality?","Africa and predominantly Muslim countries").
+
+
+f("According to studies by Maurer in the 1930s, argots ______.","serve as one important aspect of group identity").
+f("Social media is not important for shared subgroup identity.","false").
+f("Which of the following is true of othering?","othering can apply to any marginalized group").
+f("An orderly and scientific study of a subgroup by a researcher after having been accepted as a member is called a(n) ______.","participant observer report").
+f("What role does argot play within a subgroup?","It defines the boundaries of the subgroup.").
+f("Among the consequences of ______ is the potential for emotional and physical harm to those being labeled.","othering").
+f("The notion of studying corporate culture was popular in the 1950s.","false").
+f("Cant refers to the technical language of professional groups.","false").
+
+
+f("Besides argot, ______ and values contribute to defining subgroup identity and boundaries.","media use").
+f("Writing about lesbians and gay men, Rotello argues that cultural separation occurs only when society stigmatizes a group.","true").
+f("Hofstede argued that the masculinity cultural dimension is negatively related to the acceptance of homosexuality.","true").
+f("For many corporations, the value systems were established by ______.","value shaping leaders").
+
+f("For a subgroup, a specialized vocabulary identifies it and establishes its boundaries.","true").
+f("An orderly and scientific study of a subgroup by a researcher after having been accepted as a member is called a(n) ______.","participant observer report").
+f("Cant refers to the technical language of professional groups.","false").
+
+f("Important myths in the Disneyland corporate culture are drama and family.","true").
+f("How is the Google company structured?","It has a small middle management and a hands-on upper management.").
+
+
+f("Social media is not important for shared subgroup identity.","false").
+f("There were no hate crime laws in 1967.","true").
+
+f("According to studies by Maurer in the 1930s, argots ______.","serve as one important aspect of group identity").
+f("Media distributed only to subgroup members can vary widely from graffiti to newsletters.","true").
+f("Maurer's studies demonstrate that membership in the subgroup provides an identity.","true").
+
+
+/* end of quizz 11 facts */
+
+/*start of quiz 12 facts */
+
+f("Individuals who influence innovation decisions in a direction deemed desirable by a change agency are ______.","change agents").
+f("Individuals who are able to informally influence other individuals' attitudes or overt behavior in a desired way with relative frequency are ______.","opinion leaders").
+f("Captain Arthur Phillip who arrived in Australia in 1788 had the view of the colonists as ______ of the indigenous inhabitants.","guests").
+f("In the diffusion model, a change agent is the individual able to influence informally other individuals' attitudes or overt behavior in a desired way.","false").
+f("Huntington asserts that the clash of the Western civilization and ______ civilization dates back 1,300 years.","islamic").
+f("Oftentimes, religious conflict becomes intertwined with which types of causes?","ethic and nationalist").
+f("Muslims do not think of Westerners as respectful of women.","true").
+f("Large majorities in nearly every country express which view on immigration?","There should be a greater restriction on immigration.").
+f("One percentage of the world's population controls how much of the world's money, property, and other material resources?","46%").
+f("The space in which geographically and historically separated peoples come into contact with each other and establish ongoing relations is a ______.","contact zone").
+
+f("An ethical consideration in introducing innovations into cultures deals with ______.","unanticipated consequences").
+f("There have been attempts led by the United States and various other nation-states to end ______.","violence against women").
+f("What does the Pew Research Center's Global Attitudes Project show about how Muslims and Westerners regard each other?","each side has a negative image of the other.").
+f("Which of the following is a cultural icon?","a special symbol that tends to be idolized in a culture").
+f("Rogers moved away from the diffusion model to what he called the ______ model.","convergence").
+f("At the time of Columbus, Spain debated the rationality of the Indians.","true").
+f("A Credit Suisse Research Institute study has shown that 1% of the world's population controls 90% of the world's money, property, and other material resources.","false").
+f("______ refers to the adaptation of globally marketed products and services to local customs and consumer preferences.","glocalization").
+f("The subjugation of American Indians was defensible when they were labeled as ______.","savage").
+f("Which concept developed by Marx is considered a source of identity?","class").
+
+f("In many parts of the world, any threat to one's religious beliefs is a threat to one's ______.","identity").
+f("Women's economic status is related to ______.","fertility rate").
+f("How did Captain James Cook describe the natives when he arrived on Hawaii in 1778?","savages").
+f("Today's seven billion people worldwide live in ______.","interdependence").
+f("In Muslim countries, many people do not agree that suicide bombings targeting civilians can be justified in defense of Islam.","false").
+f("According to Cannadine (2013), which is the oldest source of human identity and conflict?","religion").
+f("Which of the following is one of Ritzer's principles of the 'McDonaldization of society?'","efficiency").
+f("The process by which innovations are spread to members of a social system is known as ______.","diffusion").
+f("Euro Disney was initially successful because it faithfully duplicated the original Disneyland.","false").
+f("The most widely recognized U.S. icon worldwide is ______.","coca-cola").
+
+f("The fear of the predominant influence that one culture can develop over another is ______.","cultural hegemony").
+f("______ refers to using, developing, and protecting resources at a rate and in a manner that enables people to meet their current needs and also provides that future generations can meet their own needs.","sustainability").
+f("Said describes the process of labeling non-Western cultures as 'underdeveloped' as ______.","orientalisms").
+f("Which of the following refers to a product or service that is distributed with little or no adaptation to local markets?","globalization").
+f("Many argue that race, skin color, and ethnicity are major regulators of human life and identity.","true").
+f("According to Cannadine (2013), it is difficult to substantiate that there is solidarity among all ______.","women").
+f("In the convergence model, information is shared by individuals who converge over time toward a greater degree of mutual agreement.","true").
+f("How do cultures treat people of different genders?","differently").
+f("The Japanese concept of quality circles is largely derived from whose lectures in Japan?","W. Edward Deming").
+f("Two thirds of the world's population controls no more than how much of the global wealth?","3%").
+
+
+f("Between the 16th and the 19th centuries in the Euro-American cultures, peoples from other lands were ______.","devalued").
+f("What was justified when Blacks were considered 'chattel' or property?","segregation").
+f("Nation-state identity has superseded other sources as the primary identity in most of the world.","true").
+f("For thousands of years, humans lived in ______ communities.","isolated").
+f("Racial and ethnic groups have been particularly subjected to othering in ______.","language").
+f("Political scientist Daniel Lerner proposed that media help transition from a traditional to a modernized country.","true").
+f("The past few decades have been characterized by ______.","improvement in the human condition worldwide").
+f("The historic ranking of individuals has resulted in ______.","othering").
+f("An ______ is an object less widely recognized.","artifact").
+f("Ritzer's critique of the efficiency model originating in U.S. corporations is a critique of ______.","the McDonaldization of society").
+
+
+f("According to Cannadine (2013), which is the oldest source of human identity and conflict?","religion").
+f("Racial and ethnic groups have been particularly subjected to othering in ______.","language").
+f("Coca-Cola has met resistance as a new form of colonialism.","true").
+f("Between the 16th and the 19th centuries in the Euro-American cultures, peoples from other lands were ______.","devalued").
+f("What does the Pew Research Center's Global Attitudes Project show about how Muslims and Westerners regard each other?","each side has a negative image of the other").
+f("Individuals who are able to informally influence other individuals' attitudes or overt behavior in a desired way with relative frequency are ______.","opinion leaders").
+f("One percentage of the world's population controls 20% of the world's money, property, and other material resources.","false").
+f("How do cultures treat people of different genders?","differently").
+
+
+f("The Japanese concept of quality circles is largely derived from whose lectures in Japan?","W. Edward Deming").
+f("Over the past few decades, there have been unprecedented improvements in the human condition worldwide.","true").
+f("Which concept developed by Marx is considered a source of identity?","class").
+f("European explorers labeled Hawaiians savages.","true").
+f("One percentage of the world's population controls how much of the world's money, property, and other material resources?","46%").
+f("______ refers to the adaptation of globally marketed products and services to local customs and consumer preferences.","glocalization").
+f("In many parts of the world, any threat to one's religious beliefs is a threat to one's ______.","identity").
+f("Which of the following refers to a product or service that is distributed with little or no adaptation to local markets?","globalization").
+f("Which of the following is one of Ritzer's principles of the 'McDonaldization of society?'","efficiency").
+
+
+f("Dr. Deming's reputation in the United States contributed to his success in Japan.","false").
+f("The historic ranking of individuals has resulted in ______.","othering").
+f("Individuals who influence innovation decisions in a direction deemed desirable by a change agency are ______.","change agents").
+f("Today's seven billion people worldwide live in ______.","interdependence").
+f("How did Captain James Cook describe the natives when he arrived on Hawaii in 1778?","savages").
+f("Ritzer's critique of the efficiency model originating in U.S. corporations is a critique of ______.","the McDonaldization of society").
+f("Two thirds of the world's population controls no more than how much of the global wealth?","2%").
+f("Said describes the process of labeling non-Western cultures as 'underdeveloped' as ______.","orientalism").
+f("The United Arab Emirates has almost double the per capita carbon dioxide emissions of the United States.","true").
+
+
+/* End of quiz 12 facts */
+
 
 a(X) :- f(X,Y),
 		write(X),nl,
